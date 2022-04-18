@@ -1,33 +1,28 @@
-## <span style="color:black">Stock from CAC40 by RSI index</span> 
 
-<html>
- 
-<head>
-  <title>Dynamically Populate List Items</title>
-  <style>
-    h1 {
-      font-family: sans-serif;
-      font-size: 64px;
-      color: #CCC;
-      padding: 5px;
-      margin: 5px;
-    }
-    ul {
-      padding: 0;
-      margin: 10px;
-    }
-    li {
-      font-family: sans-serif;
-      background-color:gold;
-      float: left;
-      clear: both;
-      padding: 5px;
-      list-style-type: none;
-      margin: 10px;
-      border-radius: 5px;
-    }
-  </style>
-</head>
+<style>
+  h1 {
+    font-family: sans-serif;
+    font-size: 64px;
+    color: #CCC;
+    padding: 5px;
+    margin: 5px;
+  }
+  ul {
+    padding: 0;
+    margin: 10px;
+  }
+  li {
+    font-family: sans-serif;
+    background-color:gold;
+    float: left;
+    clear: both;
+    padding: 5px;
+    list-style-type: none;
+    margin: 10px;
+    border-radius: 5px;
+  }
+</style>
+
  
 <body>
   <h1>Toppings</h1>
@@ -52,4 +47,3 @@
   </script>
 </body>
  
-</html>
