@@ -35,7 +35,10 @@
   var fs = require("fs");
   var text = fs.readFileSync("./example.txt").toString('utf-8');
   var toppings = text.split("\n");
-
+  
+  var fs = require('fs');
+  var text = fs.readFileSync("./example.txt", 'utf-8');
+  var toppings = text.split('\n')
 
   var ul = document.querySelector("ul");
 
