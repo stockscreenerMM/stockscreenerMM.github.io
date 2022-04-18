@@ -32,11 +32,7 @@
  
   <script>
     
-  var fs = require("fs");
-  var text = fs.readFileSync("./example.txt").toString('utf-8');
-  var toppings = text.split("\n");
-  
-  var fs = require('fs');
+  var fs = import('fs');
   var text = fs.readFileSync("./example.txt", 'utf-8');
   var toppings = text.split('\n')
 
