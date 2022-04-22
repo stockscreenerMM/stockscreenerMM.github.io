@@ -53,7 +53,7 @@
         }
 
         CsvToHtmlTable.init({
-            csv_path: "data/Health Clinics in Chicago.csv",
+            csv_path: "data/stocks_cac40.csv",
             element: "table-container",
             allow_download: true,
             csv_options: {
@@ -70,4 +70,4 @@
     </script>
 </body>
 
-</html>
+
