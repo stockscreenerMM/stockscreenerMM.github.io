@@ -3,6 +3,7 @@
     <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
         crossorigin="anonymous">
@@ -13,7 +14,7 @@
     <div class="container-fluid">
         <main class="row">
             <div class="col">
-                <h1>Main page</h1>
+                <h1>CAC40</h1>
 
                 <p> Stocks from CAC40, with latest RSI values.
                 </p>

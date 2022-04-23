@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+title: Stock screener
+description: > # this means to ignore newlines until "baseurl:"
+  Quickly screen interesting stocks accodring to financial indicators.
+# social links
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+github:
+  is_project_page: false
