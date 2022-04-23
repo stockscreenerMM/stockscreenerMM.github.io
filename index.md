@@ -13,7 +13,7 @@
     <div class="container-fluid">
         <main class="row">
             <div class="col">
-                <h1>Main page</h1>
+                <h1>CAC40</h1>
 
                 <p> Stocks from CAC40, with latest RSI values.
                 </p>
