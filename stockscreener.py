@@ -66,7 +66,7 @@ for s in stocks_cac40:
         pass
 
 df = pd.DataFrame.from_dict({"Stock name": cac40_stocks, "Sector": cac40_stocks_sector, "RSI": cac40_stocks_RSI})
-df.to_csv("./data/stocks_cac40.csv")
+df.to_csv("data/stocks_cac40.csv")
 
 cac40_stocks = []
 cac40_stocks_sector = []
@@ -85,4 +85,4 @@ for s in stocks_SBF120:
         pass
 
 df = pd.DataFrame.from_dict({"Stock name": cac40_stocks, "Sector": cac40_stocks_sector, "RSI": cac40_stocks_RSI})
-df.to_csv("./data/stocks_sbf120.csv")
+df.to_csv("data/stocks_sbf120.csv")
