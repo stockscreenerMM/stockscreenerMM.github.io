@@ -48,19 +48,19 @@
 46,COX.PA,Healthcare,47.8
 47,ORP.PA,Healthcare,54.0
 48,RI.PA,Consumer Defensive,55.3
-49,RCO.PA,Consumer Defensive,67.0
-50,RNO.PA,Consumer Cyclical,36.7
-51,RXL.PA,Technology,23.6
-52,SK.PA,Consumer Cyclical,53.0
-53,SAF.PA,Industrials,51.4
-54,SGO.PA,Industrials,24.3
-55,SAN.PA,Healthcare,48.1
-56,SU.PA,Industrials,45.4
-57,SCR.PA,Financial Services,22.5
-58,SCHP.PA,Industrials,56.5
-59,SESG.PA,Communication Services,19.3
-60,GLE.PA,Financial Services,22.5
-61,SW.PA,Industrials,63.6
+49,PUB.PA,Communication Services,34.4
+50,RCO.PA,Consumer Defensive,67.0
+51,RNO.PA,Consumer Cyclical,36.7
+52,RXL.PA,Technology,23.6
+53,SK.PA,Consumer Cyclical,53.0
+54,SAF.PA,Industrials,51.4
+55,SGO.PA,Industrials,24.3
+56,SAN.PA,Healthcare,48.1
+57,SU.PA,Industrials,45.4
+58,SCR.PA,Financial Services,22.5
+59,SCHP.PA,Industrials,56.5
+60,SESG.PA,Communication Services,19.3
+61,GLE.PA,Financial Services,22.5
 62,SOI.PA,Technology,30.0
 63,STM.PA,Technology,32.9
 64,TFI.PA,Communication Services,21.4
