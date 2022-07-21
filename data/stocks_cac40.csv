@@ -1,7 +1,7 @@
 ,Stock name,Sector,RSI
 0,AC.PA,Consumer Cyclical,59.8
 1,AI.PA,Basic Materials,46.3
-2,ALO.PA,Industrials,50.8
+2,ALO.PA,Industrials,46.4
 3,CS.PA,Financial Services,43.2
 4,BNP.PA,Financial Services,45.8
 5,EN.PA,Industrials,44.6
@@ -23,6 +23,6 @@
 21,GLE.PA,Financial Services,46.4
 22,STM.PA,Technology,63.4
 23,VK.PA,Basic Materials,32.4
-24,VIE.PA,Industrials,54.0
+24,VIE.PA,Industrials,49.9
 25,DG.PA,Industrials,54.9
 26,VIV.PA,Communication Services,53.1
