@@ -3,7 +3,7 @@
 1,ADP.PA,Industrials,68.9
 2,AF.PA,Industrials,71.9
 3,AI.PA,Basic Materials,68.4
-4,ALO.PA,Industrials,56.1
+4,ALO.PA,Industrials,56.8
 5,ATE.PA,Technology,73.6
 6,AKE.PA,Basic Materials,52.2
 7,ATO.PA,Technology,53.5
@@ -66,10 +66,8 @@
 64,TFI.PA,Communication Services,54.3
 65,HO.PA,Industrials,47.0
 66,UBI.PA,Communication Services,62.5
-67,FR.PA,Consumer Cyclical,61.5
-68,VK.PA,Basic Materials,55.7
-69,VIE.PA,Industrials,67.8
-70,RIN.PA,Consumer Defensive,70.0
-71,DG.PA,Industrials,65.6
-72,VIV.PA,Communication Services,46.2
-73,MF.PA,Financial Services,47.2
+67,VIE.PA,Industrials,67.8
+68,RIN.PA,Consumer Defensive,70.0
+69,DG.PA,Industrials,65.6
+70,VIV.PA,Communication Services,46.2
+71,MF.PA,Financial Services,47.2
