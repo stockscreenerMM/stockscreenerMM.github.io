@@ -12,12 +12,17 @@
 10,EDF.PA,Utilities,66.8
 11,OR.PA,Consumer Defensive,40.4
 12,LR.PA,Industrials,44.7
-13,MC.PA,Consumer Cyclical,41.8
-14,ML.PA,Consumer Cyclical,39.7
-15,RI.PA,Consumer Defensive,48.4
-16,RNO.PA,Consumer Cyclical,53.0
-17,SGO.PA,Industrials,46.0
-18,SAN.PA,Healthcare,34.9
-19,SU.PA,Industrials,49.7
-20,GLE.PA,Financial Services,66.3
-21,DG.PA,Industrials,59.8
+13,MMB.PA,Consumer Cyclical,36.4
+14,MC.PA,Consumer Cyclical,41.8
+15,ML.PA,Consumer Cyclical,39.7
+16,RI.PA,Consumer Defensive,48.4
+17,RNO.PA,Consumer Cyclical,53.0
+18,SGO.PA,Industrials,46.0
+19,SAN.PA,Healthcare,34.9
+20,SU.PA,Industrials,49.7
+21,GLE.PA,Financial Services,66.3
+22,STM.PA,Technology,55.9
+23,VK.PA,Basic Materials,60.4
+24,VIE.PA,Industrials,44.2
+25,DG.PA,Industrials,59.8
+26,VIV.PA,Communication Services,34.1
