@@ -2,12 +2,16 @@
 0,AC.PA,Consumer Cyclical,35.0
 1,AI.PA,Basic Materials,38.4
 2,CS.PA,Financial Services,28.4
-3,OR.PA,Consumer Defensive,40.3
-4,LR.PA,Industrials,37.2
-5,MC.PA,Consumer Cyclical,34.8
-6,RI.PA,Consumer Defensive,53.9
-7,STM.PA,Technology,35.0
-8,VK.PA,Basic Materials,49.4
-9,VIE.PA,Industrials,32.1
-10,DG.PA,Industrials,24.8
-11,VIV.PA,Communication Services,30.0
+3,BN.PA,Consumer Defensive,31.5
+4,OR.PA,Consumer Defensive,40.3
+5,LR.PA,Industrials,37.2
+6,MMB.PA,Consumer Cyclical,47.9
+7,MC.PA,Consumer Cyclical,34.8
+8,RI.PA,Consumer Defensive,53.9
+9,SU.PA,Industrials,43.7
+10,GLE.PA,Financial Services,30.2
+11,STM.PA,Technology,35.0
+12,VK.PA,Basic Materials,49.4
+13,VIE.PA,Industrials,32.1
+14,DG.PA,Industrials,24.8
+15,VIV.PA,Communication Services,30.0
