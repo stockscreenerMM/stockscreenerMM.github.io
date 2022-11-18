@@ -26,7 +26,7 @@
 24,ERA.PA,Basic Materials,56.9
 25,RF.PA,Financial Services,57.5
 26,ERF.PA,Healthcare,52.2
-27,ETL.PA,Technology,55.1
+27,ETL.PA,Technology,44.2
 28,GFC.PA,Real Estate,62.4
 29,GET.PA,Industrials,47.9
 30,RMS.PA,Consumer Cyclical,66.5
@@ -70,6 +70,6 @@
 68,VK.PA,Basic Materials,58.2
 69,VIE.PA,Industrials,69.5
 70,RIN.PA,Consumer Defensive,66.9
-71,DG.PA,Industrials,68.3
+71,DG.PA,Industrials,71.1
 72,VIV.PA,Communication Services,53.9
 73,MF.PA,Financial Services,68.2
