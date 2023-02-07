@@ -2,8 +2,8 @@
 0,AC.PA,Consumer Cyclical,80.2
 1,AI.PA,Basic Materials,54.5
 2,ALO.PA,Industrials,60.4
-3,BNP.PA,Financial Services,65.9
-4,EN.PA,Industrials,56.4
+3,CS.PA,Financial Services,60.8
+4,BNP.PA,Financial Services,65.9
 5,CAP.PA,Technology,72.0
 6,CA.PA,Consumer Defensive,41.9
 7,ACA.PA,Financial Services,71.5
@@ -16,7 +16,7 @@
 14,RI.PA,Consumer Defensive,47.9
 15,RNO.PA,Consumer Cyclical,75.8
 16,SGO.PA,Industrials,57.7
-17,SU.PA,Industrials,62.8
+17,SAN.PA,Healthcare,40.0
 18,GLE.PA,Financial Services,78.0
 19,STM.PA,Technology,78.5
 20,VK.PA,Basic Materials,65.1
