@@ -1,74 +1,74 @@
 ,Stock name,Sector,RSI
-0,AC.PA,Consumer Cyclical,69.2
-1,ADP.PA,Industrials,45.6
-2,AF.PA,Industrials,71.6
-3,AI.PA,Basic Materials,50.1
-4,ALO.PA,Industrials,68.2
-5,ATE.PA,Technology,51.0
-6,AKE.PA,Basic Materials,53.3
-7,ATO.PA,Technology,56.0
-8,CS.PA,Financial Services,40.2
-9,BEN.PA,Consumer Cyclical,64.9
-10,BB.PA,Consumer Defensive,46.0
-11,BNP.PA,Financial Services,58.5
-12,BON.PA,Consumer Defensive,59.8
-13,EN.PA,Industrials,35.9
-14,BVI.PA,Industrials,55.2
-15,CAP.PA,Technology,69.9
-16,CA.PA,Consumer Defensive,28.1
-17,CO.PA,Consumer Defensive,55.1
-18,ACA.PA,Financial Services,60.6
-19,BN.PA,Consumer Defensive,23.1
-20,DSY.PA,Technology,66.7
-21,DBG.PA,Industrials,39.3
+0,AC.PA,Consumer Cyclical,71.4
+1,ADP.PA,Industrials,46.4
+2,AF.PA,Industrials,75.4
+3,AI.PA,Basic Materials,51.6
+4,ALO.PA,Industrials,67.0
+5,ATE.PA,Technology,53.4
+6,AKE.PA,Basic Materials,53.2
+7,ATO.PA,Technology,56.2
+8,CS.PA,Financial Services,42.9
+9,BEN.PA,Consumer Cyclical,67.3
+10,BB.PA,Consumer Defensive,50.9
+11,BNP.PA,Financial Services,61.0
+12,BON.PA,Consumer Defensive,61.3
+13,EN.PA,Industrials,40.4
+14,BVI.PA,Industrials,54.6
+15,CAP.PA,Technology,71.6
+16,CA.PA,Consumer Defensive,34.2
+17,CO.PA,Consumer Defensive,67.7
+18,ACA.PA,Financial Services,61.2
+19,BN.PA,Consumer Defensive,23.6
+20,DSY.PA,Technology,66.5
+21,DBG.PA,Industrials,40.2
 22,EDF.PA,Utilities,
-23,FGR.PA,Industrials,39.3
-24,ERA.PA,Basic Materials,53.9
-25,RF.PA,Financial Services,63.3
-26,ERF.PA,Healthcare,35.5
-27,ETL.PA,Technology,36.2
-28,GFC.PA,Real Estate,45.0
-29,GET.PA,Industrials,36.3
-30,RMS.PA,Consumer Cyclical,55.6
-31,ICAD.PA,Real Estate,49.8
-32,NK.PA,Basic Materials,71.7
-33,IPN.PA,Healthcare,46.9
-34,IPS.PA,Industrials,60.1
-35,DEC.PA,Communication Services,56.7
-36,LI.PA,Real Estate,55.9
-37,OR.PA,Consumer Defensive,45.1
-38,MMB.PA,Consumer Cyclical,55.6
-39,LR.PA,Industrials,81.2
-40,MC.PA,Consumer Cyclical,49.7
-41,MAU.PA,Energy,66.1
-42,MMT.PA,Communication Services,55.6
-43,NEX.PA,Industrials,67.6
-44,NXI.PA,Real Estate,27.3
+23,FGR.PA,Industrials,44.4
+24,ERA.PA,Basic Materials,56.1
+25,RF.PA,Financial Services,63.6
+26,ERF.PA,Healthcare,36.8
+27,ETL.PA,Technology,41.8
+28,GFC.PA,Real Estate,51.8
+29,GET.PA,Industrials,39.6
+30,RMS.PA,Consumer Cyclical,55.2
+31,ICAD.PA,Real Estate,55.3
+32,NK.PA,Basic Materials,74.0
+33,IPN.PA,Healthcare,49.4
+34,IPS.PA,Industrials,59.8
+35,DEC.PA,Communication Services,57.2
+36,LI.PA,Real Estate,59.9
+37,OR.PA,Consumer Defensive,47.6
+38,MMB.PA,Consumer Cyclical,57.4
+39,LR.PA,Industrials,81.9
+40,MC.PA,Consumer Cyclical,51.9
+41,MAU.PA,Energy,69.8
+42,MMT.PA,Communication Services,55.2
+43,NEX.PA,Industrials,70.4
+44,NXI.PA,Real Estate,30.9
 45,COX.PA,Healthcare,35.8
-46,ORP.PA,Healthcare,12.7
-47,RI.PA,Consumer Defensive,37.7
-48,PUB.PA,Communication Services,66.1
-49,RCO.PA,Consumer Defensive,39.6
-50,RNO.PA,Consumer Cyclical,61.9
-51,RXL.PA,Technology,80.9
-52,SK.PA,Consumer Cyclical,25.9
-53,SAF.PA,Industrials,56.2
-54,SGO.PA,Industrials,73.5
-55,SAN.PA,Healthcare,40.9
-56,SU.PA,Industrials,64.7
-57,SCR.PA,Financial Services,58.8
-58,SCHP.PA,Industrials,63.1
-59,SESG.PA,Communication Services,14.8
-60,GLE.PA,Financial Services,73.8
+46,ORP.PA,Healthcare,13.8
+47,RI.PA,Consumer Defensive,42.4
+48,PUB.PA,Communication Services,66.9
+49,RCO.PA,Consumer Defensive,42.8
+50,RNO.PA,Consumer Cyclical,65.9
+51,RXL.PA,Technology,81.2
+52,SK.PA,Consumer Cyclical,30.4
+53,SAF.PA,Industrials,55.3
+54,SGO.PA,Industrials,73.8
+55,SAN.PA,Healthcare,41.4
+56,SU.PA,Industrials,67.6
+57,SCR.PA,Financial Services,58.4
+58,SCHP.PA,Industrials,66.2
+59,SESG.PA,Communication Services,17.6
+60,GLE.PA,Financial Services,75.1
 61,SW.PA,Industrials,66.4
-62,SOI.PA,Technology,74.2
-63,TFI.PA,Communication Services,42.2
-64,HO.PA,Industrials,50.9
-65,UBI.PA,Communication Services,49.9
-66,FR.PA,Consumer Cyclical,77.2
-67,VK.PA,Basic Materials,52.1
-68,VIE.PA,Industrials,69.1
-69,RIN.PA,Consumer Defensive,47.4
-70,DG.PA,Industrials,40.5
-71,VIV.PA,Communication Services,22.6
+62,SOI.PA,Technology,75.2
+63,TFI.PA,Communication Services,45.8
+64,HO.PA,Industrials,50.4
+65,UBI.PA,Communication Services,52.0
+66,FR.PA,Consumer Cyclical,77.3
+67,VK.PA,Basic Materials,56.4
+68,VIE.PA,Industrials,76.7
+69,RIN.PA,Consumer Defensive,55.9
+70,DG.PA,Industrials,50.6
+71,VIV.PA,Communication Services,27.5
 72,MF.PA,Financial Services,50.1
