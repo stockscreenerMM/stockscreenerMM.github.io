@@ -1,3 +1,16 @@
 ,Stock name,Sector,RSI
-0,ERA.PA,Basic Materials,33.2
-1,MC.PA,Consumer Cyclical,40.4
+0,AC.PA,Consumer Cyclical,41.9
+1,AI.PA,Basic Materials,48.5
+2,CS.PA,Financial Services,55.0
+3,BB.PA,Consumer Defensive,73.6
+4,ERA.PA,Basic Materials,33.2
+5,ERF.PA,Healthcare,49.1
+6,RMS.PA,Consumer Cyclical,52.9
+7,IPS.PA,Industrials,29.5
+8,LI.PA,Real Estate,69.9
+9,MC.PA,Consumer Cyclical,40.4
+10,NEX.PA,Industrials,55.6
+11,ORP.PA,Healthcare,39.7
+12,RI.PA,Consumer Defensive,44.3
+13,SAF.PA,Industrials,58.8
+14,SCR.PA,Financial Services,50.5
