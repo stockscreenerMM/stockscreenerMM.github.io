@@ -1,23 +1,34 @@
 ,Stock name,Sector,RSI
 0,AC.PA,Consumer Cyclical,39.0
-1,AI.PA,Basic Materials,51.3
-2,CS.PA,Financial Services,52.5
-3,BB.PA,Consumer Defensive,64.1
-4,DBG.PA,Industrials,40.0
-5,ERA.PA,Basic Materials,38.5
-6,ERF.PA,Healthcare,34.8
-7,RMS.PA,Consumer Cyclical,43.8
-8,IPS.PA,Industrials,33.3
-9,LI.PA,Real Estate,40.3
-10,MC.PA,Consumer Cyclical,36.7
-11,MAU.PA,Energy,65.9
-12,NEX.PA,Industrials,44.0
-13,ORP.PA,Healthcare,50.8
-14,RI.PA,Consumer Defensive,32.4
-15,SK.PA,Consumer Cyclical,50.2
-16,SAF.PA,Industrials,53.5
-17,SGO.PA,Industrials,43.8
-18,SAN.PA,Healthcare,62.7
-19,SCR.PA,Financial Services,51.9
-20,SCHP.PA,Industrials,65.4
-21,VK.PA,Basic Materials,66.0
+1,ADP.PA,Industrials,30.6
+2,AI.PA,Basic Materials,51.0
+3,ALO.PA,Industrials,36.4
+4,ATO.PA,Technology,16.8
+5,CS.PA,Financial Services,50.7
+6,BB.PA,Consumer Defensive,64.4
+7,BNP.PA,Financial Services,52.8
+8,CAP.PA,Technology,46.7
+9,CO.PA,Consumer Defensive,56.0
+10,DBG.PA,Industrials,37.0
+11,ERA.PA,Basic Materials,40.0
+12,ERF.PA,Healthcare,33.7
+13,RMS.PA,Consumer Cyclical,43.9
+14,NK.PA,Basic Materials,34.6
+15,IPN.PA,Healthcare,51.7
+16,IPS.PA,Industrials,34.1
+17,LI.PA,Real Estate,39.4
+18,OR.PA,Consumer Defensive,37.1
+19,MC.PA,Consumer Cyclical,36.2
+20,MAU.PA,Energy,65.8
+21,NEX.PA,Industrials,43.1
+22,ORP.PA,Healthcare,50.5
+23,RI.PA,Consumer Defensive,33.6
+24,RCO.PA,Consumer Defensive,45.1
+25,SK.PA,Consumer Cyclical,49.0
+26,SAF.PA,Industrials,54.1
+27,SGO.PA,Industrials,43.0
+28,SAN.PA,Healthcare,63.1
+29,SCR.PA,Financial Services,50.5
+30,SCHP.PA,Industrials,64.2
+31,SESG.PA,Communication Services,58.3
+32,VK.PA,Basic Materials,64.6
