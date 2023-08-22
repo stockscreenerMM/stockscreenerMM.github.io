@@ -1,5 +1,9 @@
 ,Stock name,Sector,RSI
-0,MAU.PA,Energy,66.2
-1,SGO.PA,Industrials,45.5
-2,SAN.PA,Healthcare,63.4
-3,SCHP.PA,Industrials,66.6
+0,DBG.PA,Industrials,41.4
+1,ERA.PA,Basic Materials,40.0
+2,MC.PA,Consumer Cyclical,39.0
+3,MAU.PA,Energy,65.8
+4,RI.PA,Consumer Defensive,33.7
+5,SGO.PA,Industrials,44.5
+6,SAN.PA,Healthcare,62.8
+7,SCHP.PA,Industrials,67.7

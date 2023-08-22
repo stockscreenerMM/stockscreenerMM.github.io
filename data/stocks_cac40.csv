@@ -1,3 +1,5 @@
 ,Stock name,Sector,RSI
-0,SGO.PA,Industrials,45.6
-1,SAN.PA,Healthcare,63.5
+0,MC.PA,Consumer Cyclical,39.1
+1,RI.PA,Consumer Defensive,33.9
+2,SGO.PA,Industrials,44.6
+3,SAN.PA,Healthcare,63.0
