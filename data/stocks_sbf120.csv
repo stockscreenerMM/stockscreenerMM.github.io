@@ -1,9 +1,23 @@
 ,Stock name,Sector,RSI
-0,DBG.PA,Industrials,41.4
-1,ERA.PA,Basic Materials,40.0
-2,MC.PA,Consumer Cyclical,39.0
-3,MAU.PA,Energy,65.8
-4,RI.PA,Consumer Defensive,33.7
-5,SGO.PA,Industrials,44.5
-6,SAN.PA,Healthcare,62.8
-7,SCHP.PA,Industrials,67.7
+0,AC.PA,Consumer Cyclical,39.0
+1,AI.PA,Basic Materials,51.3
+2,CS.PA,Financial Services,52.5
+3,BB.PA,Consumer Defensive,64.1
+4,DBG.PA,Industrials,40.0
+5,ERA.PA,Basic Materials,38.5
+6,ERF.PA,Healthcare,34.8
+7,RMS.PA,Consumer Cyclical,43.8
+8,IPS.PA,Industrials,33.3
+9,LI.PA,Real Estate,40.3
+10,MC.PA,Consumer Cyclical,36.7
+11,MAU.PA,Energy,65.9
+12,NEX.PA,Industrials,44.0
+13,ORP.PA,Healthcare,50.8
+14,RI.PA,Consumer Defensive,32.4
+15,SK.PA,Consumer Cyclical,50.2
+16,SAF.PA,Industrials,53.5
+17,SGO.PA,Industrials,43.8
+18,SAN.PA,Healthcare,62.7
+19,SCR.PA,Financial Services,51.9
+20,SCHP.PA,Industrials,65.4
+21,VK.PA,Basic Materials,66.0
