@@ -1,71 +1,71 @@
 ,Stock name,Sector,RSI
-0,AC.PA,Consumer Cyclical,44.9
-1,ADP.PA,Industrials,36.0
+0,AC.PA,Consumer Cyclical,43.6
+1,ADP.PA,Industrials,36.4
 2,AF.PA,Industrials,46.5
-3,AI.PA,Basic Materials,39.4
-4,ALO.PA,Industrials,37.9
-5,ATE.PA,Technology,42.7
-6,AKE.PA,Basic Materials,32.0
+3,AI.PA,Basic Materials,39.1
+4,ALO.PA,Industrials,37.7
+5,ATE.PA,Technology,42.9
+6,AKE.PA,Basic Materials,32.1
 7,ATO.PA,Technology,44.1
-8,CS.PA,Financial Services,68.0
-9,BEN.PA,Consumer Cyclical,44.0
+8,CS.PA,Financial Services,67.6
+9,BEN.PA,Consumer Cyclical,46.0
 10,BB.PA,Consumer Defensive,76.6
-11,BNP.PA,Financial Services,62.6
-12,BON.PA,Consumer Defensive,36.8
+11,BNP.PA,Financial Services,63.5
+12,BON.PA,Consumer Defensive,36.1
 13,EN.PA,Industrials,74.0
-14,BVI.PA,Industrials,36.8
-15,CAP.PA,Technology,51.3
-16,CA.PA,Consumer Defensive,35.2
+14,BVI.PA,Industrials,36.0
+15,CAP.PA,Technology,51.8
+16,CA.PA,Consumer Defensive,36.2
 17,CO.PA,Consumer Defensive,20.9
-18,ACA.PA,Financial Services,54.0
-19,BN.PA,Consumer Defensive,48.2
-20,DSY.PA,Technology,30.5
-21,DBG.PA,Industrials,30.5
-22,FGR.PA,Industrials,45.3
-23,ERA.PA,Basic Materials,44.7
-24,RF.PA,Financial Services,58.1
-25,ERF.PA,Healthcare,47.6
-26,ETL.PA,Technology,43.5
+18,ACA.PA,Financial Services,55.2
+19,BN.PA,Consumer Defensive,48.6
+20,DSY.PA,Technology,29.9
+21,DBG.PA,Industrials,30.8
+22,FGR.PA,Industrials,46.2
+23,ERA.PA,Basic Materials,44.1
+24,RF.PA,Financial Services,56.4
+25,ERF.PA,Healthcare,47.3
+26,ETL.PA,Technology,47.0
 27,GFC.PA,Real Estate,60.6
-28,GET.PA,Industrials,55.2
-29,RMS.PA,Consumer Cyclical,34.5
-30,ICAD.PA,Real Estate,34.4
-31,NK.PA,Basic Materials,32.3
-32,IPN.PA,Healthcare,57.1
-33,IPS.PA,Industrials,38.2
+28,GET.PA,Industrials,54.6
+29,RMS.PA,Consumer Cyclical,33.6
+30,ICAD.PA,Real Estate,33.1
+31,NK.PA,Basic Materials,33.1
+32,IPN.PA,Healthcare,57.5
+33,IPS.PA,Industrials,37.9
 34,DEC.PA,Communication Services,41.7
-35,LI.PA,Real Estate,58.5
-36,OR.PA,Consumer Defensive,46.2
-37,MMB.PA,Consumer Cyclical,32.4
-38,LR.PA,Industrials,31.8
-39,MC.PA,Consumer Cyclical,35.0
-40,MAU.PA,Energy,53.5
-41,MMT.PA,Communication Services,33.9
-42,NEX.PA,Industrials,49.5
-43,NXI.PA,Real Estate,44.4
-44,ORP.PA,Healthcare,23.4
-45,RI.PA,Consumer Defensive,12.6
-46,PUB.PA,Communication Services,45.7
-47,RCO.PA,Consumer Defensive,18.7
-48,RNO.PA,Consumer Cyclical,67.2
-49,RXL.PA,Technology,52.5
-50,SK.PA,Consumer Cyclical,25.6
-51,SAF.PA,Industrials,49.1
-52,SGO.PA,Industrials,39.5
-53,SAN.PA,Healthcare,63.8
-54,SU.PA,Industrials,44.9
-55,SCR.PA,Financial Services,62.8
+35,LI.PA,Real Estate,59.7
+36,OR.PA,Consumer Defensive,45.6
+37,MMB.PA,Consumer Cyclical,34.6
+38,LR.PA,Industrials,31.5
+39,MC.PA,Consumer Cyclical,35.2
+40,MAU.PA,Energy,53.4
+41,MMT.PA,Communication Services,35.3
+42,NEX.PA,Industrials,49.4
+43,NXI.PA,Real Estate,44.6
+44,ORP.PA,Healthcare,24.9
+45,RI.PA,Consumer Defensive,12.5
+46,PUB.PA,Communication Services,46.9
+47,RCO.PA,Consumer Defensive,18.3
+48,RNO.PA,Consumer Cyclical,66.8
+49,RXL.PA,Technology,52.8
+50,SK.PA,Consumer Cyclical,25.4
+51,SAF.PA,Industrials,47.8
+52,SGO.PA,Industrials,39.2
+53,SAN.PA,Healthcare,61.8
+54,SU.PA,Industrials,43.6
+55,SCR.PA,Financial Services,63.4
 56,SCHP.PA,Industrials,44.5
-57,SESG.PA,Communication Services,48.4
-58,GLE.PA,Financial Services,32.1
-59,SW.PA,Industrials,52.7
-60,SOI.PA,Technology,27.3
-61,TFI.PA,Communication Services,42.8
-62,HO.PA,Industrials,42.1
-63,UBI.PA,Communication Services,51.2
-64,FR.PA,Consumer Cyclical,39.3
-65,VK.PA,Basic Materials,40.4
+57,SESG.PA,Communication Services,49.4
+58,GLE.PA,Financial Services,32.3
+59,SW.PA,Industrials,54.2
+60,SOI.PA,Technology,27.4
+61,TFI.PA,Communication Services,43.8
+62,HO.PA,Industrials,41.8
+63,UBI.PA,Communication Services,50.1
+64,FR.PA,Consumer Cyclical,39.1
+65,VK.PA,Basic Materials,39.5
 66,VIE.PA,Industrials,58.6
-67,DG.PA,Industrials,59.1
-68,VIV.PA,Communication Services,52.4
-69,MF.PA,Financial Services,26.2
+67,DG.PA,Industrials,59.3
+68,VIV.PA,Communication Services,53.7
+69,MF.PA,Financial Services,25.1
