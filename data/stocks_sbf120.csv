@@ -1,71 +1,71 @@
 ,Stock name,Sector,RSI
-0,AC.PA,Consumer Cyclical,73.4
+0,AC.PA,Consumer Cyclical,73.0
 1,ADP.PA,Industrials,57.5
-2,AF.PA,Industrials,67.3
-3,AI.PA,Basic Materials,64.7
-4,ALO.PA,Industrials,51.7
-5,ATE.PA,Technology,71.5
-6,AKE.PA,Basic Materials,81.3
-7,ATO.PA,Technology,60.9
-8,CS.PA,Financial Services,57.1
+2,AF.PA,Industrials,66.4
+3,AI.PA,Basic Materials,66.0
+4,ALO.PA,Industrials,52.6
+5,ATE.PA,Technology,70.9
+6,AKE.PA,Basic Materials,81.7
+7,ATO.PA,Technology,60.0
+8,CS.PA,Financial Services,58.7
 9,BEN.PA,Consumer Cyclical,57.9
-10,BB.PA,Consumer Defensive,63.3
-11,BNP.PA,Financial Services,72.0
-12,BON.PA,Consumer Defensive,57.5
+10,BB.PA,Consumer Defensive,61.1
+11,BNP.PA,Financial Services,71.9
+12,BON.PA,Consumer Defensive,58.1
 13,EN.PA,Industrials,39.1
-14,BVI.PA,Industrials,54.2
-15,CAP.PA,Technology,64.7
-16,CA.PA,Consumer Defensive,37.3
-17,CO.PA,Consumer Defensive,44.2
-18,ACA.PA,Financial Services,75.2
-19,BN.PA,Consumer Defensive,46.2
-20,DSY.PA,Technology,67.0
-21,DBG.PA,Industrials,59.7
-22,FGR.PA,Industrials,59.7
-23,ERA.PA,Basic Materials,59.8
-24,RF.PA,Financial Services,75.6
-25,ERF.PA,Healthcare,73.8
-26,ETL.PA,Technology,56.2
-27,GFC.PA,Real Estate,70.4
-28,GET.PA,Industrials,60.5
-29,RMS.PA,Consumer Cyclical,55.4
-30,ICAD.PA,Real Estate,68.0
-31,NK.PA,Basic Materials,68.0
-32,IPN.PA,Healthcare,57.9
-33,IPS.PA,Industrials,82.3
-34,DEC.PA,Communication Services,58.9
-35,LI.PA,Real Estate,72.4
+14,BVI.PA,Industrials,53.4
+15,CAP.PA,Technology,60.6
+16,CA.PA,Consumer Defensive,36.3
+17,CO.PA,Consumer Defensive,42.4
+18,ACA.PA,Financial Services,77.7
+19,BN.PA,Consumer Defensive,43.5
+20,DSY.PA,Technology,66.8
+21,DBG.PA,Industrials,58.5
+22,FGR.PA,Industrials,59.8
+23,ERA.PA,Basic Materials,59.9
+24,RF.PA,Financial Services,76.5
+25,ERF.PA,Healthcare,74.2
+26,ETL.PA,Technology,53.8
+27,GFC.PA,Real Estate,71.0
+28,GET.PA,Industrials,63.1
+29,RMS.PA,Consumer Cyclical,58.1
+30,ICAD.PA,Real Estate,66.1
+31,NK.PA,Basic Materials,66.6
+32,IPN.PA,Healthcare,53.7
+33,IPS.PA,Industrials,81.7
+34,DEC.PA,Communication Services,58.2
+35,LI.PA,Real Estate,74.1
 36,OR.PA,Consumer Defensive,78.4
-37,MMB.PA,Consumer Cyclical,47.6
-38,LR.PA,Industrials,66.3
-39,MC.PA,Consumer Cyclical,61.3
-40,MAU.PA,Energy,50.3
-41,MMT.PA,Communication Services,48.6
-42,NEX.PA,Industrials,69.5
-43,NXI.PA,Real Estate,63.3
+37,MMB.PA,Consumer Cyclical,49.6
+38,LR.PA,Industrials,68.8
+39,MC.PA,Consumer Cyclical,63.4
+40,MAU.PA,Energy,49.6
+41,MMT.PA,Communication Services,49.2
+42,NEX.PA,Industrials,70.0
+43,NXI.PA,Real Estate,62.5
 44,ORP.PA,Healthcare,24.7
-45,RI.PA,Consumer Defensive,51.4
+45,RI.PA,Consumer Defensive,51.3
 46,PUB.PA,Communication Services,79.5
-47,RCO.PA,Consumer Defensive,59.8
-48,RNO.PA,Consumer Cyclical,70.6
+47,RCO.PA,Consumer Defensive,58.6
+48,RNO.PA,Consumer Cyclical,69.0
 49,RXL.PA,Technology,85.8
-50,SK.PA,Consumer Cyclical,77.7
-51,SAF.PA,Industrials,47.6
-52,SGO.PA,Industrials,76.1
-53,SAN.PA,Healthcare,66.6
-54,SU.PA,Industrials,84.8
-55,SCR.PA,Financial Services,35.8
+50,SK.PA,Consumer Cyclical,77.2
+51,SAF.PA,Industrials,47.8
+52,SGO.PA,Industrials,76.5
+53,SAN.PA,Healthcare,65.5
+54,SU.PA,Industrials,84.7
+55,SCR.PA,Financial Services,36.1
 56,SCHP.PA,Industrials,56.1
-57,SESG.PA,Communication Services,57.5
-58,GLE.PA,Financial Services,66.3
+57,SESG.PA,Communication Services,57.1
+58,GLE.PA,Financial Services,66.2
 59,SW.PA,Industrials,38.6
-60,SOI.PA,Technology,50.2
-61,TFI.PA,Communication Services,48.7
-62,HO.PA,Industrials,43.2
-63,UBI.PA,Communication Services,27.1
-64,FR.PA,Consumer Cyclical,59.3
-65,VK.PA,Basic Materials,66.4
-66,VIE.PA,Industrials,60.1
-67,DG.PA,Industrials,56.0
-68,VIV.PA,Communication Services,70.0
-69,MF.PA,Financial Services,62.8
+60,SOI.PA,Technology,52.0
+61,TFI.PA,Communication Services,48.0
+62,HO.PA,Industrials,44.1
+63,UBI.PA,Communication Services,29.8
+64,FR.PA,Consumer Cyclical,59.8
+65,VK.PA,Basic Materials,67.1
+66,VIE.PA,Industrials,60.8
+67,DG.PA,Industrials,56.7
+68,VIV.PA,Communication Services,69.6
+69,MF.PA,Financial Services,62.1
