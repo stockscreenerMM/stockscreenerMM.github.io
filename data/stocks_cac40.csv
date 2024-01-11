@@ -1,25 +1,25 @@
 ,Stock name,Sector,RSI
-0,AC.PA,Consumer Cyclical,67.7
-1,AI.PA,Basic Materials,44.8
-2,ALO.PA,Industrials,50.5
-3,CS.PA,Financial Services,43.7
-4,BNP.PA,Financial Services,44.1
-5,EN.PA,Industrials,58.0
-6,CAP.PA,Technology,43.8
-7,CA.PA,Consumer Defensive,36.5
+0,AC.PA,Consumer Cyclical,66.6
+1,AI.PA,Basic Materials,44.0
+2,ALO.PA,Industrials,50.2
+3,CS.PA,Financial Services,44.2
+4,BNP.PA,Financial Services,45.4
+5,EN.PA,Industrials,58.7
+6,CAP.PA,Technology,44.4
+7,CA.PA,Consumer Defensive,35.7
 8,ACA.PA,Financial Services,62.1
-9,BN.PA,Consumer Defensive,61.9
-10,OR.PA,Consumer Defensive,47.7
-11,LR.PA,Industrials,34.2
-12,MMB.PA,Consumer Cyclical,50.2
-13,MC.PA,Consumer Cyclical,28.8
-14,RI.PA,Consumer Defensive,38.3
-15,RNO.PA,Consumer Cyclical,38.5
-16,SGO.PA,Industrials,40.7
-17,SAN.PA,Healthcare,84.4
-18,SU.PA,Industrials,47.3
-19,GLE.PA,Financial Services,44.4
-20,VK.PA,Basic Materials,40.8
-21,VIE.PA,Industrials,43.9
-22,DG.PA,Industrials,52.9
-23,VIV.PA,Communication Services,64.6
+9,BN.PA,Consumer Defensive,64.3
+10,OR.PA,Consumer Defensive,50.6
+11,LR.PA,Industrials,34.1
+12,MMB.PA,Consumer Cyclical,52.5
+13,MC.PA,Consumer Cyclical,28.5
+14,RI.PA,Consumer Defensive,37.4
+15,RNO.PA,Consumer Cyclical,37.9
+16,SGO.PA,Industrials,40.6
+17,SAN.PA,Healthcare,84.6
+18,SU.PA,Industrials,46.9
+19,GLE.PA,Financial Services,44.1
+20,VK.PA,Basic Materials,39.5
+21,VIE.PA,Industrials,43.2
+22,DG.PA,Industrials,53.8
+23,VIV.PA,Communication Services,64.9
