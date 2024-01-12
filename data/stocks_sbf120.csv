@@ -1,71 +1,71 @@
 ,Stock name,Sector,RSI
-0,AC.PA,Consumer Cyclical,71.2
-1,ADP.PA,Industrials,54.7
-2,AF.PA,Industrials,38.7
-3,AI.PA,Basic Materials,55.3
-4,ALO.PA,Industrials,51.4
-5,ATE.PA,Technology,50.0
-6,AKE.PA,Basic Materials,46.7
-7,ATO.PA,Technology,32.9
-8,CS.PA,Financial Services,52.0
+0,AC.PA,Consumer Cyclical,70.4
+1,ADP.PA,Industrials,56.4
+2,AF.PA,Industrials,38.9
+3,AI.PA,Basic Materials,55.8
+4,ALO.PA,Industrials,52.4
+5,ATE.PA,Technology,50.2
+6,AKE.PA,Basic Materials,44.0
+7,ATO.PA,Technology,31.6
+8,CS.PA,Financial Services,53.8
 9,BEN.PA,Consumer Cyclical,47.6
-10,BB.PA,Consumer Defensive,63.4
-11,BNP.PA,Financial Services,48.5
-12,BON.PA,Consumer Defensive,48.0
-13,EN.PA,Industrials,64.7
-14,BVI.PA,Industrials,64.1
-15,CAP.PA,Technology,55.6
-16,CA.PA,Consumer Defensive,41.6
-17,CO.PA,Consumer Defensive,37.8
-18,ACA.PA,Financial Services,66.8
-19,BN.PA,Consumer Defensive,69.8
-20,DSY.PA,Technology,57.0
-21,DBG.PA,Industrials,55.5
-22,FGR.PA,Industrials,63.8
-23,ERA.PA,Basic Materials,31.4
-24,RF.PA,Financial Services,57.5
-25,ERF.PA,Healthcare,49.3
-26,ETL.PA,Technology,61.7
+10,BB.PA,Consumer Defensive,63.7
+11,BNP.PA,Financial Services,49.3
+12,BON.PA,Consumer Defensive,49.7
+13,EN.PA,Industrials,64.1
+14,BVI.PA,Industrials,64.5
+15,CAP.PA,Technology,56.4
+16,CA.PA,Consumer Defensive,40.4
+17,CO.PA,Consumer Defensive,38.1
+18,ACA.PA,Financial Services,66.5
+19,BN.PA,Consumer Defensive,66.4
+20,DSY.PA,Technology,57.6
+21,DBG.PA,Industrials,56.8
+22,FGR.PA,Industrials,62.6
+23,ERA.PA,Basic Materials,33.6
+24,RF.PA,Financial Services,59.1
+25,ERF.PA,Healthcare,48.0
+26,ETL.PA,Technology,62.5
 27,GFC.PA,Real Estate,47.9
-28,GET.PA,Industrials,48.7
-29,RMS.PA,Consumer Cyclical,35.1
-30,ICAD.PA,Real Estate,56.2
-31,NK.PA,Basic Materials,49.6
-32,IPN.PA,Healthcare,41.5
-33,IPS.PA,Industrials,79.3
-34,DEC.PA,Communication Services,62.9
-35,LI.PA,Real Estate,59.8
-36,OR.PA,Consumer Defensive,57.7
-37,MMB.PA,Consumer Cyclical,53.6
-38,LR.PA,Industrials,42.4
-39,MC.PA,Consumer Cyclical,24.8
-40,MAU.PA,Energy,25.5
+28,GET.PA,Industrials,49.5
+29,RMS.PA,Consumer Cyclical,35.8
+30,ICAD.PA,Real Estate,54.8
+31,NK.PA,Basic Materials,48.8
+32,IPN.PA,Healthcare,38.8
+33,IPS.PA,Industrials,80.2
+34,DEC.PA,Communication Services,60.9
+35,LI.PA,Real Estate,59.4
+36,OR.PA,Consumer Defensive,55.5
+37,MMB.PA,Consumer Cyclical,51.5
+38,LR.PA,Industrials,44.4
+39,MC.PA,Consumer Cyclical,25.6
+40,MAU.PA,Energy,25.2
 41,MMT.PA,Communication Services,58.9
-42,NEX.PA,Industrials,65.9
-43,NXI.PA,Real Estate,68.8
+42,NEX.PA,Industrials,69.8
+43,NXI.PA,Real Estate,66.5
 44,ORP.PA,Healthcare,7.3
-45,RI.PA,Consumer Defensive,36.4
-46,PUB.PA,Communication Services,69.5
-47,RCO.PA,Consumer Defensive,32.1
-48,RNO.PA,Consumer Cyclical,34.0
-49,RXL.PA,Technology,46.8
-50,SK.PA,Consumer Cyclical,48.3
-51,SAF.PA,Industrials,72.1
-52,SGO.PA,Industrials,46.4
-53,SAN.PA,Healthcare,88.2
-54,SU.PA,Industrials,56.8
-55,SCR.PA,Financial Services,54.7
-56,SCHP.PA,Industrials,58.2
+45,RI.PA,Consumer Defensive,37.1
+46,PUB.PA,Communication Services,69.4
+47,RCO.PA,Consumer Defensive,31.3
+48,RNO.PA,Consumer Cyclical,34.6
+49,RXL.PA,Technology,47.6
+50,SK.PA,Consumer Cyclical,50.0
+51,SAF.PA,Industrials,72.5
+52,SGO.PA,Industrials,47.4
+53,SAN.PA,Healthcare,87.7
+54,SU.PA,Industrials,56.7
+55,SCR.PA,Financial Services,56.6
+56,SCHP.PA,Industrials,58.8
 57,SESG.PA,Communication Services,61.8
-58,GLE.PA,Financial Services,46.8
-59,SW.PA,Industrials,75.9
-60,SOI.PA,Technology,32.4
+58,GLE.PA,Financial Services,48.3
+59,SW.PA,Industrials,78.3
+60,SOI.PA,Technology,33.2
 61,TFI.PA,Communication Services,64.2
-62,HO.PA,Industrials,68.7
-63,UBI.PA,Communication Services,21.0
-64,FR.PA,Consumer Cyclical,43.2
+62,HO.PA,Industrials,68.1
+63,UBI.PA,Communication Services,21.6
+64,FR.PA,Consumer Cyclical,42.0
 65,VK.PA,Basic Materials,38.0
 66,VIE.PA,Industrials,55.6
-67,DG.PA,Industrials,66.7
-68,VIV.PA,Communication Services,66.7
-69,MF.PA,Financial Services,58.4
+67,DG.PA,Industrials,63.5
+68,VIV.PA,Communication Services,69.0
+69,MF.PA,Financial Services,57.7
