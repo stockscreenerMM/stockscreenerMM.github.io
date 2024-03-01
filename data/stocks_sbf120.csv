@@ -1,71 +1,71 @@
 ,Stock name,Sector,RSI
-0,AC.PA,Consumer Cyclical,68.8
-1,ADP.PA,Industrials,54.7
-2,AF.PA,Industrials,33.2
-3,AI.PA,Basic Materials,72.2
-4,ALO.PA,Industrials,60.8
-5,ATE.PA,Technology,48.7
-6,AKE.PA,Basic Materials,35.2
-7,ATO.PA,Technology,37.2
-8,CS.PA,Financial Services,75.3
+0,AC.PA,Consumer Cyclical,68.7
+1,ADP.PA,Industrials,53.0
+2,AF.PA,Industrials,32.7
+3,AI.PA,Basic Materials,71.1
+4,ALO.PA,Industrials,60.2
+5,ATE.PA,Technology,48.5
+6,AKE.PA,Basic Materials,34.8
+7,ATO.PA,Technology,39.1
+8,CS.PA,Financial Services,73.0
 9,BEN.PA,Consumer Cyclical,64.8
 10,BB.PA,Consumer Defensive,55.6
-11,BNP.PA,Financial Services,47.2
-12,BON.PA,Consumer Defensive,37.0
-13,EN.PA,Industrials,61.7
-14,BVI.PA,Industrials,74.2
-15,CAP.PA,Technology,69.7
-16,CA.PA,Consumer Defensive,45.5
-17,CO.PA,Consumer Defensive,43.7
-18,ACA.PA,Financial Services,46.9
-19,BN.PA,Consumer Defensive,28.6
-20,DSY.PA,Technology,35.4
-21,DBG.PA,Industrials,38.5
-22,FGR.PA,Industrials,63.2
-23,ERA.PA,Basic Materials,51.8
-24,RF.PA,Financial Services,56.9
-25,ERF.PA,Healthcare,46.5
-26,ETL.PA,Technology,41.9
-27,GFC.PA,Real Estate,15.5
-28,GET.PA,Industrials,56.1
-29,RMS.PA,Consumer Cyclical,82.4
-30,ICAD.PA,Real Estate,28.5
-31,NK.PA,Basic Materials,43.0
-32,IPN.PA,Healthcare,32.7
+11,BNP.PA,Financial Services,46.7
+12,BON.PA,Consumer Defensive,36.3
+13,EN.PA,Industrials,62.4
+14,BVI.PA,Industrials,74.0
+15,CAP.PA,Technology,68.8
+16,CA.PA,Consumer Defensive,45.6
+17,CO.PA,Consumer Defensive,43.5
+18,ACA.PA,Financial Services,48.1
+19,BN.PA,Consumer Defensive,29.9
+20,DSY.PA,Technology,34.8
+21,DBG.PA,Industrials,38.4
+22,FGR.PA,Industrials,62.2
+23,ERA.PA,Basic Materials,51.5
+24,RF.PA,Financial Services,57.6
+25,ERF.PA,Healthcare,45.4
+26,ETL.PA,Technology,42.1
+27,GFC.PA,Real Estate,15.3
+28,GET.PA,Industrials,54.1
+29,RMS.PA,Consumer Cyclical,80.3
+30,ICAD.PA,Real Estate,28.2
+31,NK.PA,Basic Materials,41.6
+32,IPN.PA,Healthcare,33.0
 33,IPS.PA,Industrials,63.5
-34,DEC.PA,Communication Services,57.2
-35,LI.PA,Real Estate,49.1
-36,OR.PA,Consumer Defensive,48.5
+34,DEC.PA,Communication Services,57.4
+35,LI.PA,Real Estate,47.4
+36,OR.PA,Consumer Defensive,49.2
 37,MMB.PA,Consumer Cyclical,68.9
-38,LR.PA,Industrials,58.9
-39,MC.PA,Consumer Cyclical,74.9
-40,MAU.PA,Energy,37.6
-41,MMT.PA,Communication Services,51.8
-42,NEX.PA,Industrials,68.1
-43,NXI.PA,Real Estate,13.4
+38,LR.PA,Industrials,57.3
+39,MC.PA,Consumer Cyclical,74.8
+40,MAU.PA,Energy,37.7
+41,MMT.PA,Communication Services,52.7
+42,NEX.PA,Industrials,66.6
+43,NXI.PA,Real Estate,13.5
 44,ORP.PA,Healthcare,50.5
-45,RI.PA,Consumer Defensive,54.1
-46,PUB.PA,Communication Services,67.2
-47,RCO.PA,Consumer Defensive,55.9
-48,RNO.PA,Consumer Cyclical,64.2
-49,RXL.PA,Technology,38.2
-50,SK.PA,Consumer Cyclical,48.1
-51,SAF.PA,Industrials,74.3
-52,SGO.PA,Industrials,50.4
-53,SAN.PA,Healthcare,41.6
-54,SU.PA,Industrials,70.4
-55,SCR.PA,Financial Services,48.7
-56,SCHP.PA,Industrials,54.3
-57,SESG.PA,Communication Services,56.2
-58,GLE.PA,Financial Services,57.4
-59,SW.PA,Industrials,48.6
+45,RI.PA,Consumer Defensive,54.0
+46,PUB.PA,Communication Services,66.4
+47,RCO.PA,Consumer Defensive,54.8
+48,RNO.PA,Consumer Cyclical,64.3
+49,RXL.PA,Technology,37.9
+50,SK.PA,Consumer Cyclical,49.3
+51,SAF.PA,Industrials,76.5
+52,SGO.PA,Industrials,51.4
+53,SAN.PA,Healthcare,41.4
+54,SU.PA,Industrials,69.1
+55,SCR.PA,Financial Services,46.2
+56,SCHP.PA,Industrials,55.5
+57,SESG.PA,Communication Services,55.0
+58,GLE.PA,Financial Services,56.1
+59,SW.PA,Industrials,49.1
 60,SOI.PA,Technology,42.9
-61,TFI.PA,Communication Services,61.5
-62,HO.PA,Industrials,53.4
+61,TFI.PA,Communication Services,61.3
+62,HO.PA,Industrials,54.4
 63,UBI.PA,Communication Services,42.1
-64,FR.PA,Consumer Cyclical,38.7
-65,VK.PA,Basic Materials,49.2
-66,VIE.PA,Industrials,42.8
-67,DG.PA,Industrials,54.9
+64,FR.PA,Consumer Cyclical,39.6
+65,VK.PA,Basic Materials,50.6
+66,VIE.PA,Industrials,44.1
+67,DG.PA,Industrials,55.6
 68,VIV.PA,Communication Services,63.6
-69,MF.PA,Financial Services,69.2
+69,MF.PA,Financial Services,69.6
